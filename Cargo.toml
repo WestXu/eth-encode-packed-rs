@@ -9,5 +9,5 @@ keywords = ["ethereum", "eth", "abi", "solidity"]
 description = "Easy to use replica of Solidity abi.encodePacked."
 
 [dependencies]
-ethabi = "*"
+ethers = "2"
 hex = "*"
